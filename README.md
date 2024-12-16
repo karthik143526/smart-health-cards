@@ -1,5 +1,6 @@
 # SMART Health Card / "Vaccine Passport" Generator
 
+
 A python script for issuing SMART Health Cards containing a record of
 COVID-19 vaccination.
 
